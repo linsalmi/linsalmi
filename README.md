@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Noob here trying to figure this out.
 
 
-<img width="200" height="200" alt="qr" src="https://github.com/user-attachments/assets/a3d01f56-b432-49a7-91a6-1979c5a2ddfb" />
+<img width="50" height="50" alt="qr" src="https://github.com/user-attachments/assets/a3d01f56-b432-49a7-91a6-1979c5a2ddfb" />
