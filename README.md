@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Noob here trying to figure this out.
+_Noob here trying to figure this out._<br/>
 
 I'm a first-year student @ LAB University of Applied Sciences.
 
 
-<img width="110" height="100" alt="qr" src="https://github.com/user-attachments/assets/a3d01f56-b432-49a7-91a6-1979c5a2ddfb" />
+<img width="110" height="100" alt="qr" src="https://github.com/user-attachments/assets/a3d01f56-b432-49a7-91a6-1979c5a2ddfb" />  <br/>
+
+
 
 
 > If you don't know where you are going, any road will get you there. *Cheshire Cat*
